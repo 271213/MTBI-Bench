@@ -1,0 +1,62 @@
+[
+  {
+    "Clip ID": 1742301732322,
+    "Action": "Clean the blackboard, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Blackboard"
+  },
+  {
+    "Clip ID": 1732614693101,
+    "Action": "Control multimedia, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Multimedia."
+  },
+  {
+    "Clip ID": 1736425979491,
+    "Action": "Display teaching AIDS, Among students",
+    "Position": "Among students",
+    "Interactive object": "Teaching AIDS."
+  },
+  {
+    "Clip ID": 1732685845758,
+    "Action": "Give a lecture, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Students."
+  },
+  {
+    "Clip ID": 1732685921593,
+    "Action": "Interact with students, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Student."
+  },
+  {
+    "Clip ID": 1742209364208,
+    "Action": "Make a bow, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Student."
+  },
+  {
+    "Clip ID": 1742203865672,
+    "Action": "Multimedia teaching, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Multimedia PPT."
+  },
+  {
+    "Clip ID": 1742213739695,
+    "Action": "Patrol the classroom, On the podium, Among students",
+    "Position": "On the podium,Among students",
+    "Interactive object": "Students."
+  },
+  {
+    "Clip ID": 1740818109778,
+    "Action": "Point to the podium, Among students",
+    "Position": "Among students",
+    "Interactive object": "Multimedia."
+  },
+  {
+    "Clip ID": 1734343393951,
+    "Action": "Write on the blackboard, On the podium",
+    "Position": "On the podium",
+    "Interactive object": "Blackboard."
+  }
+]

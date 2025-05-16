@@ -1,4 +1,4 @@
-# MTBI-Bench: A Multimodal Benchmark for Teacher Behavior Interpretation
+# MTBU-Bench: A Multimodal Benchmark for Teacher Behavior Interpretation
 
 The integration of large language models (LLMs) with visual encoders has opened new frontiers in multimodal reasoning for educational applications. However, existing evaluation benchmarks in this domain exhibit three critical limitations:
 1. **Result-oriented evaluation paradigms**

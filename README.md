@@ -24,4 +24,4 @@ Our experiments demonstrate that current models still struggle with:
 - Capturing detailed spatiotemporal and semantic information
 
 These limitations highlight concrete directions for future research in multimodal educational AI systems.
-
+(All data will be open-sourced after the mid-draft,Email discussions are always welcome)
